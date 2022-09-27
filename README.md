@@ -2,7 +2,7 @@
 ![caesar_cipher](https://user-images.githubusercontent.com/102873173/192584659-225a9b09-f593-4cac-a315-917da3f3d8c5.jpg)
 \
 \
-A Caesar cipher is a primitive encryption tool used by Julius Caesar to protect his military correspondence. 
+Caesar cipher is a primitive encryption tool used by Julius Caesar to protect his military correspondence. 
 By shifting the alphabet by a predetermined number of positions, a message becomes scrambled.
 \
 \
