@@ -24,7 +24,3 @@ def decrypt(pos_change, ciphertext):
     plaintext = []
     plaintext = encrypt(-pos_change, ciphertext)
     return plaintext
-
-
-text = decrypt(3, "")
-print(text)
